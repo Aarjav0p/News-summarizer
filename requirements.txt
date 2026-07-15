@@ -1,0 +1,11 @@
+asyncio
+# For asynchronous functions
+
+httpx
+# For making HTTP requests
+
+lxml
+# For parsing xml file
+
+re
+# For cleaning parsed xml strings
