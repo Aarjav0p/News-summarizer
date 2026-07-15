@@ -81,3 +81,4 @@ async def get_world_news():
     return "\n".join(report)
 
 # test = asyncio.run(get_world_news())
+# print(test)

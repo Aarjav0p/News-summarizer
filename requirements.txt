@@ -9,3 +9,9 @@ lxml
 
 re
 # For cleaning parsed xml strings
+
+openai
+# For chatbot
+
+json
+os

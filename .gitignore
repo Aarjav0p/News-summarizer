@@ -1,2 +1,3 @@
 reference.py
 .env
+__pycache__
